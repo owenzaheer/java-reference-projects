@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ecommerce-order-and-fulfillment-service-java",
+    "title": "Ecommerce Order and Fulfillment Service",
+    "family": "Java",
+    "folder": "java/ecommerce-order-and-fulfillment-service-java"
+  },
+  {
+    "id": "partner-api-gateway-reference-java",
+    "title": "Partner API Gateway Reference",
+    "family": "Java",
+    "folder": "java/partner-api-gateway-reference-java"
+  },
+  {
+    "id": "education-assessment-and-progress-platform-java",
+    "title": "Education Assessment and Progress Platform",
+    "family": "Java",
+    "folder": "java/education-assessment-and-progress-platform-java"
+  }
+]

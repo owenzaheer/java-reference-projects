@@ -1,0 +1,16 @@
+{
+  "id": "partner-api-gateway-reference-java",
+  "title": "Partner API Gateway Reference",
+  "family": "Java",
+  "domain": "gateway",
+  "actions": [
+    "request"
+  ],
+  "samples": {
+    "request": {
+      "version": "v1",
+      "partner": "synthetic",
+      "simulateDelayMs": 0
+    }
+  }
+}
